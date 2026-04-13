@@ -1,0 +1,7 @@
+[submodule "blogverse-frontend"]
+    path = blogverse-frontend
+    url = git@github.com:Jayden-Isaiah/blogverse-frontend.git
+
+[submodule "blogverse-backend"]
+    path = blogverse-backend
+    url = git@github.com:Jayden-Isaiah/blogverse-backend.git
